@@ -1,0 +1,7 @@
+README.md
+cmd_history.txt
+filelist.txt
+gtk_shell.log
+linux_shell
+linux_shell.c
+style.css

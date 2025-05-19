@@ -1,0 +1,75 @@
+Welcome to GTK Shell
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ Welcome to GTK Shell
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+/mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+README.md
+cmd_history.txt
+gtk_shell.log
+linux_shell
+linux_shell.c
+style.css
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+/mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+log: No such file or directory
+
+Process exited with status 1
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+sysinfo: No such file or directory
+
+Process exited with status 1
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+Sun May 18 23:23:42 IST 2025
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ [user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ [user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+/mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+help: Permission denied
+
+Process exited with status 1
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+Reversed: olleh
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+help: Permission denied
+
+Process exited with status 1
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+Reversed: olleh
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+Reversed: lipak
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+
+Process exited with status 1
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+error: garbage option
+
+Usage:
+ ps [options]
+
+ Try 'ps --help <simple|list|output|threads|misc|all>'
+  or 'ps --help <s|l|o|t|m|a>'
+ for additional help text.
+
+For more details see ps(1).
+
+Process exited with status 1
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+cd: a: No such file or directory
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ [user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ Welcome to GTK Shell
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+Please provide a positive number of seconds.
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
+Starting countdown:
+Time left: 5
+Time left: 4
+Time left: 3
+Time left: 2
+Time left: 1
+Time left: 0
+Countdown complete!
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ Welcome to GTK Shell
+[user@gtk-shell /mnt/c/Users/bisht/OneDrive/Documents/linuxshell/os_shell]$ 
